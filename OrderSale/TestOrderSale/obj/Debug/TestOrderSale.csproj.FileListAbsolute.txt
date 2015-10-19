@@ -1,0 +1,14 @@
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\obj\Debug\TestOrderSale.csprojResolveAssemblyReference.cache
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\TestOrderSale.exe.config
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\TestOrderSale.exe
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\TestOrderSale.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\EntityFramework.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\EntityFramework.xml
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\obj\Debug\TestOrderSale.exe
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\obj\Debug\TestOrderSale.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\Model.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\Repository.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\Model.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\TestOrderSale\bin\Debug\Repository.pdb

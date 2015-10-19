@@ -1,0 +1,6 @@
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\bin\Debug\Model.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\bin\Debug\Model.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\obj\Debug\Model.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\obj\Debug\Model.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\OrderSale\Model\bin\Debug\Model.dll.config
